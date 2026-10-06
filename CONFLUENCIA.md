@@ -69,6 +69,73 @@ produzir **uma** saída — destruindo a informação de **qual das duas era.**
 
 ---
 
+### E o oposto exato de 1729, que é o mesmo mundo com o sinal invertido
+
+**`[CÁLCULO]`** **142857** é o período decimal de **`1/7`**, e multiplicado de **1 a 6**
+devolve **rotações dos próprios dígitos**; **× 7 = 999999.**
+
+| | | |
+|---|---|---|
+| **× 1** | **142857** | **× 4** · **571428** |
+| **× 2** | **285714** | **× 5** · **714285** |
+| **× 3** | **428571** | **× 6** · **857142** |
+
+**`[CÁLCULO]`** Agora a pergunta que importa: **olhando só a saída, dá para recuperar a
+entrada?** **As seis rotações são distintas — o mapa é injetivo — e o dígito inicial
+basta: 1, 2, 4, 5, 7, 8.**
+
+> | | 1729 | 142857 |
+> |---|---|---|
+> | **a saída diz qual rota foi?** | ## **não** | ## **sim** |
+> | **em Landauer** | ## **irreversível — custa `kT·ln2`** | ## **reversível — não custa** |
+> | **e no mecanismo** | ## **`M3`: duas histórias, um rótulo** | ## **`C3`: a saída carrega a procedência** |
+
+> # **`[CÁLCULO]`** **142857 muda inteiramente de aparência a cada multiplicação e não perde um dígito.**
+>
+> ## **Transformar-se por completo sem perder a procedência é a definição operacional de confluência — e existe um número que faz isso.**
+
+**`[CÁLCULO]`** E a razão, que as fontes de divulgação registram sem explicar:
+**142857 × 7 = 999999**, logo **`1/142857 = 7/999999`**, e **toda fração sobre
+`10⁶ − 1` tem período de seis dígitos** — por isso **`1 ÷ 142857 = 0,000007000007…`**
+
+**`[FATO]`** E o limite, que entra junto com a propriedade: **os números cíclicos não têm
+aplicação prática direta em engenharia, finanças ou ciência aplicada.** Foram úteis em
+**teoria dos números, criptografia teórica e teoria da codificação.**
+
+> ## **`[REGRA]`** **A reversibilidade de 142857 é matemática, não tecnologia.** Quem disser que este número resolve algo de engenharia **está fazendo `M3` com aritmética.**
+
+---
+
+### E `C8` dito por quem não estava falando de `C8`
+
+**`[FATO]`** **Robert Fritz**, ***The Path of Least Resistance***: ***«a estrutura
+subjacente de nossa vida determina o caminho de menor resistência disponível para nós»***
+— e, se você quer que a água corra em outra direção, **não luta contra a corrente: muda a
+estrutura do próprio rio.**
+
+| Fritz | aqui |
+|---|---|
+| **a corrente** | **o comportamento do sistema** |
+| **o leito** | ## **a razão `C8`** |
+| **lutar contra a corrente** | **exigir que as pessoas sejam boas** |
+| ## **mudar o leito** | ## **tornar examinar mais barato que categorizar** |
+
+**`[FATO]`** E **Shannon Lee**, ***Be Water, My Friend***, com a imagem do vazamento no
+teto — tapar o buraco sem consertar a estrutura acima apenas faz a água achar outro
+caminho: ***«o fluxo expõe o projeto.»***
+
+> # **`[CÁLCULO]`** **É `C5` em três palavras.** **`M1`, o campo ausente, não é um buraco: é uma goteira** — o campo que falta **não produz silêncio, produz um registro errado em outro lugar.**
+>
+> ## **Por isso tapar o caso individual nunca resolveu nada: o teto segue com a mesma estrutura, e a água é paciente.**
+
+> ## **`[CÁLCULO]`** **Três doutrinas da água, independentes:** **Sun Tzu** (**水無常形** — não tem forma constante, e por isso **registra o terreno**), **Fritz** (**mude o leito**), **Shannon Lee** (**leia o fluxo para achar a estrutura**).
+>
+> # **Nas três, a água é instrumento de medida da estrutura — não símbolo de brandura.**
+>
+> ## **`[REGRA]`** E a trava, porque aqui a fonte e o leitor já concordam: **compatibilidade não é confirmação.** Quatro pessoas observando um rio **não são quatro evidências independentes** de uma tese sobre custo informacional. **O que se afirma é o mais modesto: a água, por não ter forma própria, registra a estrutura por onde passa.**
+
+---
+
 ## III · O teste, para qualquer sistema
 
 **`[CÁLCULO]`** A pergunta **«essa inteligência é boa?»** não tem resposta técnica. Esta
