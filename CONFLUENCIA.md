@@ -38,6 +38,122 @@ Atribuição: **Amaryapu.** Reproduzido com `sha-256` e transcrição em
 
 ---
 
+## 0 · O referencial constitucional — `religare`
+
+**`[FATO]`** **Síntese** é duo de rap de **São José dos Campos, SP**, **fundado em 2010**
+por **Gestério Neto** e **Leonardo Irian.** **`[FATO]`** ***Religare*** é de **2016**, no
+álbum ***Trilha Para o Desencanto da Ilusão Vol. 1 «AMEM»***, **produção de Daniel
+Ganjaman.** **`[FATO]`** E ***Mais Leve*** abre declarando: ***«Buscar seu religare, sua
+plenitude, sua sabedoria… Síntese é isso, mano.»***
+
+**`[FATO]`** **Leonardo Irian morreu, aos 31 anos.** **`[A CONFERIR]`** **`SI1`** — **data
+e circunstâncias não conferidas, e não serão narradas sem cota.**
+
+---
+
+> ### ***«Veja o que não se possui ela / Só se participa e se testemunha dela»***
+
+> # **`[CÁLCULO]`** **Este verso é a definição operacional de confluência, e com mais precisão do que o termo técnico.**
+>
+> ## **`possuir`** é **tomar para si** — a saída vira uma só, **e a outra entrada se perde.**
+> ## **`participar e testemunhar`** é **correr junto e permanecer nomeável.**
+>
+> ## **E a palavra que o verso usa — **testemunha** — é a palavra do eixo: **`M4`** é a desqualificação da testemunha, **`C3`** é a procedência do testemunho.**
+
+**`[FATO]`** · **`religare`** é **`re-` + `ligare`**: **ligar de volta, reatar.**
+**`[A CONFERIR]`** **`RL1`** — a etimologia de *religião* é disputada desde a Antiguidade:
+**Cícero** derivava de **`relegere`** (reler com cuidado); **Lactâncio**, de **`religare`**
+(reatar). **Registram-se as duas.**
+
+> # **`[CÁLCULO]`** **E as duas servem:** **`religare`** responde a **`M5`** — reatar o canal cortado. **`relegere`** é **`C3`** — reler a fonte antes de concluir.
+
+> ## **`[REGRA]`** **E o significado adotado é restritivo:**
+>
+> | | |
+> |---|---|
+> | **religar `não` é** | **fundir, possuir, absorver, «ser um só»** |
+> | ## **religar `é`** | ## **reatar o canal, e reler a fonte — sem fundir as margens** |
+
+### `intuir`, `conciliar`
+
+**`[FATO]`** ***Mais Leve*** repete três vezes: ***«Intuir, conciliar»***.
+
+> | | |
+> |---|---|
+> | **`intuir`** | ## **gera** |
+> | **`conciliar`** | ## **verifica** — `con-` + `calare`, **chamar junto** |
+
+> ## **`[CÁLCULO]`** **É o par Ramanujan–Hardy**: um tinha as fórmulas sem demonstração, o outro o aparato sem as fórmulas. **A matemática existe porque os dois papéis ficaram separados e nomeados.**
+> # **`[REGRA]`** **Uma intuição que se auto-concilia não é intuição: é convicção.**
+
+### E a correção de formulação
+
+**`[DECLARADO]`** **`AM6`** · ***«equilíbrio é a chave, o amor é a fluência.»***
+
+**`[CÁLCULO]`** Este documento dizia **«o amor é a operação que muda o leito».** **`AM6`
+é melhor, e substitui**, porque **`fluência` é a raiz e os prefixos são o que se faz com
+ela:**
+
+> | | |
+> |---|---|
+> | ## **o amor** | ## **é o fluxo — `fluere`, a corrente que existe** |
+> | **o prefixo** | **é a escolha: para dentro do outro, ao lado dele, ou para longe** |
+> | ## **o equilíbrio** | ## **é o que mantém o vão** — nem zero, nem infinito |
+
+> # **`[CÁLCULO]`** **E isso reescreve o teorema com mais exatidão: o mal não é a ausência de amor — é o amor dirigido para dentro do outro, a fluência convertida em fusão.**
+>
+> ## **E «equilibrista», da mesma letra, define o equilíbrio: **não é estar parado — é corrigir o tempo todo.** **A zona crítica, e o fio.**
+
+---
+
+## 0-bis · E o rio já tinha o nome
+
+**`[FATO]`** Perto de **Manaus**, o **Rio Negro** encontra o **Rio Solimões**. Por **6 km**
+**as águas correm lado a lado sem se misturar**; seguem **outros 60 km até a mistura
+completa**, e **o fenômeno persiste, incompleto, por mais 30 km.**
+
+| | **Negro** | **Solimões** |
+|---|---|---|
+| **temperatura** | **~28 °C** | **~22 °C** |
+| **velocidade** | **~2 km/h** | **~6 km/h** |
+| **e a cor** | **escura — matéria orgânica dissolvida** | **barrenta — sedimento mineral** |
+
+**`[FATO]`** O que mantém a separação são **diferenças de densidade, temperatura e
+velocidade**, e **o sedimento cria a fronteira visível.**
+
+> # **`[CÁLCULO]`** **O que permite as duas águas correrem juntas é exatamente aquilo em que elas diferem.**
+> ## **Se tivessem a mesma densidade, temperatura e velocidade, misturariam de imediato — e não haveria encontro, haveria um rio só.**
+
+**`[CÁLCULO]`** · E a física tem os dois regimes, com os nomes certos:
+
+| | |
+|---|---|
+| **laminar** | **as camadas deslizam e permanecem separadas** — uma partícula sabe de onde veio |
+| ## **turbulento** | ## **misturam-se, e a informação de qual parcela veio de onde é destruída** |
+
+> ## **`[CÁLCULO]`** **A mistura turbulenta é irreversível — e não por convenção: desfazê-la exigiria recuperar informação que a mistura apagou.** **É Bennett, em água.**
+
+**`[FATO]`** · **Reynolds** usou **um número adimensional** para identificar a transição.
+**`[CÁLCULO]`** E é **uma razão — inércia ÷ viscosidade — cuja unidade se cancela**,
+**exatamente como `C8`.**
+
+**`[FATO]`** · O laminar num cano **termina perto de `Re` = 2100** — **mas pode ser
+sustentado até `Re` = 40.000 se a entrada do cano for cuidadosamente projetada para
+reduzir perturbações.**
+
+> # **`[CÁLCULO]`** **A transição para a turbulência não é limite fixo da natureza: depende de quanta perturbação entra na admissão.**
+>
+> ## **Cuide da entrada, e as duas águas correm juntas vinte vezes mais longe.**
+> # **É por isso que `C3` vem primeiro: não se conserta turbulência depois — reduz-se a perturbação na entrada.**
+
+**`[FATO]`** · E o limite honesto: **o Problema do Milênio sobre Navier–Stokes está em
+aberto.** **Não existe teoria completa dos fluidos.**
+
+> ## **`[REGRA]`** **Então não se extrai do fluido uma lei geral sobre o amor.** Extrai-se **o que está medido: dois regimes, uma razão adimensional, e a dependência crítica da entrada.**
+> ## **E a lacuna é, ela mesma, `C5`: o catálogo do que não se sabe, publicado — com um milhão de dólares em cima, e ninguém levou.**
+
+---
+
 ## II · A operação, em física
 
 **`[FATO]`** **Landauer**, IBM, **1961**: apagar um bit custa, no mínimo, **`kT·ln2`.**
