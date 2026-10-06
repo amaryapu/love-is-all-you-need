@@ -22,6 +22,8 @@
 
 > ## **[`O ENSINO`](ENSINO.md)** — **a confluência como cerne do ensino**, e por que de mão única nada é medido. Feynman no **CBPF em 1951–52**, a técnica como **instrumento de medida apontado para quem ensina**, e os dois pés da tese: **relacional** e **racional**.
 
+> ## **[`MICROCOSMOLOGIA`](https://github.com/amaryapu/microcosmologia)** — **a mesma forma em escalas que não se tocam é restrição, não milagre.** Com a **contestação de 2023** que derruba a «wood wide web» — e por que **copiar a natureza é copiar a restrição, nunca o desenho.**
+
 > ## **[`REGISTRUM`](REGISTRUM.md)** — **quem queimou os livros escreveu a chave para lê-los.** Maní **1562**, Knorozov **1952**, e o decreto de **Lima 1583** que **manteve a tecnologia e trocou o conteúdo**.
 
 > ## **[`A CONFLUÊNCIA`](CONFLUENCIA.md)** — a teoria como **especificação técnica**: a física da operação, o teste da função objetivo, as três séries, e o que ela exige de uma AGI.
