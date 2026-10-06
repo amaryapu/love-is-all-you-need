@@ -1,0 +1,68 @@
+{
+  "id": "REG-1913-01-16-RAMANUJAN",
+  "quando": "1913-01-16T00:00:00Z",
+  "sujeito": {
+    "referencia": "remetente desconhecido, Madras Port Trust",
+    "recebeu_copia": false
+  },
+  "decisao": {
+    "o_que": "triagem de correspondência não solicitada",
+    "efeito": "descartado sem resposta",
+    "valor": null
+  },
+  "cadeia": [
+    {
+      "entrada": "remetente sem titulação acadêmica",
+      "fonte": "o próprio envelope",
+      "data": "1913-01-16",
+      "etiqueta": "FATO",
+      "peso": 0.6,
+      "sha256": null
+    },
+    {
+      "entrada": "resultados sem prova no formato aceito",
+      "fonte": "as páginas anexas",
+      "data": "1913-01-16",
+      "etiqueta": "FATO",
+      "peso": 0.4,
+      "sha256": null
+    },
+    {
+      "entrada": "cartas de desconhecidos costumam conter erro",
+      "fonte": "experiência do destinatário",
+      "data": null,
+      "etiqueta": "ATRIBUIDO",
+      "peso": 0.9,
+      "sha256": null
+    }
+  ],
+  "criterio": {
+    "regra_publicada": "",
+    "versao": "tácita",
+    "sha256": null
+  },
+  "responsavel": {
+    "entidade": "o destinatário",
+    "contato": "",
+    "humano_revisou": true
+  },
+  "fronteira": {
+    "e_caso_de_fronteira": true,
+    "margem": null,
+    "nota": "afirmações extraordinárias, procedência ilegível"
+  },
+  "derrubar": {
+    "como": "escrever de novo",
+    "prazo_dias": 0,
+    "suspende_efeito": false,
+    "obriga_exame": false
+  },
+  "ausencias": [],
+  "custo": {
+    "recai_sobre": "pessoa",
+    "reparacao": null,
+    "custo_exame_estimado": 1.0,
+    "custo_erro_estimado": 0.0,
+    "unidade": "noites de trabalho"
+  }
+}

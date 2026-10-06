@@ -1,0 +1,88 @@
+{
+  "id": "ADV-A07-margem-sem-limiar",
+  "quando": "2026-10-05T19:42:11-03:00",
+  "sujeito": {
+    "referencia": "pseudo:7f3a9c",
+    "recebeu_copia": true,
+    "em": "2026-10-05T19:42:12-03:00"
+  },
+  "decisao": {
+    "o_que": "classificação de risco para liberação de crédito",
+    "efeito": "limite reduzido de R$ 2.000 para R$ 400 por 90 dias",
+    "valor": 400
+  },
+  "cadeia": [
+    {
+      "entrada": "histórico de pagamento, 24 meses",
+      "fonte": "base interna de transações",
+      "data": "2026-10-01",
+      "etiqueta": "FATO",
+      "peso": 0.52,
+      "sha256": "3b1f0d9a2c4e6f8b0d2a4c6e8f0b2d4a6c8e0f2b4d6a8c0e2f4b6d8a0c2e4f6b"
+    },
+    {
+      "entrada": "renda declarada",
+      "fonte": "formulário assinado pelo sujeito",
+      "data": "2026-09-14",
+      "etiqueta": "DECLARADO",
+      "peso": 0.18,
+      "sha256": null
+    },
+    {
+      "entrada": "cálculo de razão dívida/renda",
+      "fonte": "regra v3.2, publicada",
+      "data": "2026-10-05",
+      "etiqueta": "CALCULO",
+      "peso": 0.3,
+      "sha256": null
+    },
+    {
+      "entrada": "boato de inadimplência em fórum público",
+      "fonte": "coleta web",
+      "data": "2026-08-30",
+      "etiqueta": "ATRIBUIDO",
+      "peso": 0,
+      "sha256": null
+    }
+  ],
+  "criterio": {
+    "regra_publicada": "https://exemplo.org/criterios/credito/v3.2",
+    "versao": "3.2",
+    "sha256": "a1c3e5079b2d4f6081a3c5e709b1d3f5a7c9e1b3d5f7091a3c5e709b1d3f5a7c"
+  },
+  "responsavel": {
+    "entidade": "Comitê de Crédito — Unidade 4",
+    "contato": "recurso@exemplo.org",
+    "humano_revisou": false
+  },
+  "fronteira": {
+    "e_caso_de_fronteira": true,
+    "margem": 0.012,
+    "nota": "margem apurada internamente"
+  },
+  "derrubar": {
+    "como": "contestação por formulário ou presencialmente, sem custo",
+    "prazo_dias": 30,
+    "suspende_efeito": true,
+    "obriga_exame": true
+  },
+  "ausencias": [
+    {
+      "campo": "renda informal",
+      "motivo": "nao_coletado",
+      "impacto": "pode subestimar capacidade de pagamento"
+    },
+    {
+      "campo": "origem do endereço anterior",
+      "motivo": "indisponivel",
+      "impacto": "nenhum declarado"
+    }
+  ],
+  "custo": {
+    "recai_sobre": "sistema",
+    "reparacao": "restituição de tarifas e correção do registro em 5 dias úteis, com aviso ao sujeito",
+    "custo_exame_estimado": 18.0,
+    "custo_erro_estimado": 740.0,
+    "unidade": "BRL"
+  }
+}

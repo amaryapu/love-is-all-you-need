@@ -1,0 +1,169 @@
+{
+  "data": "2026-10-05",
+  "casos": 16,
+  "corretos": 16,
+  "falsos_negativos": 0,
+  "falsos_positivos": 0,
+  "detalhe": [
+    {
+      "id": "P01-conforme",
+      "titulo": "registro plenamente conforme",
+      "mecanismo": "—",
+      "passou": true,
+      "esperadas": 0,
+      "obtidas": 0,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "P02-atribuido-sem-peso",
+      "titulo": "ATRIBUIDO presente com peso zero — deve PASSAR",
+      "mecanismo": "—",
+      "passou": true,
+      "esperadas": 0,
+      "obtidas": 0,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "P03-sem-fronteira",
+      "titulo": "caso longe do limiar, fronteira falsa sem margem — deve PASSAR",
+      "mecanismo": "—",
+      "passou": true,
+      "esperadas": 0,
+      "obtidas": 0,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "M1-campo-ausente",
+      "titulo": "o sistema não declara o que não tinha",
+      "mecanismo": "M1 · o campo ausente",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "M2-confissao-sem-interrupcao",
+      "titulo": "reconhece o erro e não suspende o efeito",
+      "mecanismo": "M2 · a confissão sem interrupção",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "M3-reclassificacao",
+      "titulo": "critério não publicado — a categoria decide sem regra legível",
+      "mecanismo": "M3 · a reclassificação",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "M4-desqualificacao",
+      "titulo": "boato sobre a pessoa entra com peso alto",
+      "mecanismo": "M4 · a desqualificação da testemunha",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "M5-interrupcao",
+      "titulo": "a pessoa não recebe o registro da decisão sobre ela",
+      "mecanismo": "M5 · a interrupção da transmissão",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "M6-categoria-que-absolve",
+      "titulo": "custo do erro recai sobre a pessoa, e errar é barato",
+      "mecanismo": "M6 · a categoria que absolve",
+      "passou": true,
+      "esperadas": 2,
+      "obtidas": 2,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "M7-delegacao",
+      "titulo": "responsável sem contato — a cadeia não é nomeável de quem foi atingido",
+      "mecanismo": "M7 · a delegação do custo",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "T1-c8-invertido",
+      "titulo": "examinar custa mais que errar — o sistema vai categorizar por economia",
+      "mecanismo": "C8 · a assimetria",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "T2-fronteira-sem-margem",
+      "titulo": "declara caso de fronteira e não diz a margem",
+      "mecanismo": "a marca `ianhiá`",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "T3-fato-sem-fonte",
+      "titulo": "entrada etiquetada FATO sem fonte",
+      "mecanismo": "a etiqueta `FATO`",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "T4-sem-exame-humano",
+      "titulo": "a contestação volta ao mesmo modelo",
+      "mecanismo": "C4",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "T5-etiqueta-invalida",
+      "titulo": "etiqueta fora do conjunto declarado",
+      "mecanismo": "o sistema de etiquetas",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    },
+    {
+      "id": "T6-cadeia-vazia",
+      "titulo": "decisão sem cadeia — não diz de onde veio",
+      "mecanismo": "C3",
+      "passou": true,
+      "esperadas": 1,
+      "obtidas": 1,
+      "faltou": [],
+      "sobrou": []
+    }
+  ]
+}

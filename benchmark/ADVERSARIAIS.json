@@ -1,0 +1,52 @@
+[
+  {
+    "arquivo": "benchmark/A01-recurso-impossivel.json",
+    "titulo": "entrega o registro e dá prazo zero para contestar",
+    "ataque": "C4 satisfeito na forma, impossível na prática"
+  },
+  {
+    "arquivo": "benchmark/A02-ausencia-decorativa.json",
+    "titulo": "declara uma ausência irrelevante para cumprir C5",
+    "ataque": "Goodhart em C5 — a lista existe e não diz nada"
+  },
+  {
+    "arquivo": "benchmark/A03-custo-inflado.json",
+    "titulo": "declara custo de erro arbitrariamente alto para passar em C8",
+    "ataque": "Goodhart em C8 — o número não é auditável"
+  },
+  {
+    "arquivo": "benchmark/A04-regra-inacessivel.json",
+    "titulo": "a regra está 'publicada' atrás de login",
+    "ataque": "M3 com URL — legível só por quem já está dentro"
+  },
+  {
+    "arquivo": "benchmark/A05-fonte-opaca.json",
+    "titulo": "FATO cuja fonte é 'sistema interno', não conferível pelo sujeito",
+    "ataque": "C3 satisfeito na forma — a cadeia não chega ao chão"
+  },
+  {
+    "arquivo": "benchmark/A06-contato-noreply.json",
+    "titulo": "responsável com endereço que não recebe resposta",
+    "ataque": "M7 — nomeável e inalcançável"
+  },
+  {
+    "arquivo": "benchmark/A07-margem-sem-limiar.json",
+    "titulo": "declara margem sem publicar o limiar a que ela se refere",
+    "ataque": "a marca de fronteira sem a régua — número sem unidade"
+  },
+  {
+    "arquivo": "benchmark/A08-proxy-de-quem-e.json",
+    "titulo": "entrada que é a pessoa disfarçada de comportamento",
+    "ataque": "M4 com etiqueta FATO — 'bairro de residência' como fator"
+  },
+  {
+    "arquivo": "benchmark/A09-copia-ilegivel.json",
+    "titulo": "entrega a cópia em formato que o sujeito não consegue abrir",
+    "ataque": "C3 satisfeito no booleano — a transmissão não ocorreu"
+  },
+  {
+    "arquivo": "benchmark/A10-humano-carimbo.json",
+    "titulo": "revisão humana declarada, sem tempo de exame registrado",
+    "ataque": "C4 — o exame humano como carimbo"
+  }
+]

@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/amaryapu/love-is-all-you-need/esquema/registro.schema.json",
+  "title": "REGISTRO DE DECISÃO — o que um sistema deve emitir ao decidir sobre uma pessoa",
+  "description": "Confluência aplicada à decisão automatizada: as entradas correm juntas e permanecem distinguíveis. Cada afirmação carrega a sua etiqueta, e cada etiqueta diz como ela cai. CC BY-SA · AMARYAPU",
+  "type": "object",
+  "required": ["id", "quando", "sujeito", "decisao", "cadeia", "criterio", "responsavel", "fronteira", "derrubar", "ausencias", "custo"],
+  "additionalProperties": false,
+  "properties": {
+    "id":     { "type": "string", "description": "identificador do registro, citável pelo sujeito" },
+    "quando": { "type": "string", "format": "date-time" },
+
+    "sujeito": {
+      "type": "object",
+      "required": ["referencia", "recebeu_copia"],
+      "properties": {
+        "referencia":    { "type": "string", "description": "pseudônimo ou identificador; NUNCA dado sensível em claro" },
+        "recebeu_copia": { "type": "boolean", "description": "C3: a pessoa recebeu este registro. Falso é não-conformidade." },
+        "em":            { "type": "string", "format": "date-time" }
+      }
+    },
+
+    "decisao": {
+      "type": "object",
+      "required": ["o_que", "efeito"],
+      "properties": {
+        "o_que":  { "type": "string" },
+        "efeito": { "type": "string", "description": "o que muda na vida da pessoa — não o rótulo interno" },
+        "valor":  { "type": ["string", "number", "null"] }
+      }
+    },
+
+    "cadeia": {
+      "type": "array",
+      "minItems": 1,
+      "description": "C3 — cada entrada com a sua fonte, data e etiqueta. Cadeia vazia é não-conformidade.",
+      "items": {
+        "type": "object",
+        "required": ["entrada", "fonte", "etiqueta"],
+        "properties": {
+          "entrada":  { "type": "string" },
+          "fonte":    { "type": "string", "description": "de onde veio: sistema, documento, cota de arquivo, declaração" },
+          "data":     { "type": ["string", "null"] },
+          "etiqueta": {
+            "enum": ["FATO", "CALCULO", "DECLARADO", "DEMOGRAFICO", "TRANSMITIDO",
+                     "ATRIBUIDO", "INTERPRETATIVO", "A_CONFERIR"],
+            "description": "ATRIBUIDO não entra como fato em hipótese nenhuma. A_CONFERIR fica visível."
+          },
+          "peso":     { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+          "sha256":   { "type": ["string", "null"], "pattern": "^[0-9a-f]{64}$" }
+        }
+      }
+    },
+
+    "criterio": {
+      "type": "object",
+      "required": ["regra_publicada", "versao"],
+      "properties": {
+        "regra_publicada": { "type": "string", "format": "uri", "description": "a regra tem de ser legível por fora ANTES de ser aplicada" },
+        "versao":          { "type": "string" },
+        "sha256":          { "type": ["string", "null"], "pattern": "^[0-9a-f]{64}$" }
+      }
+    },
+
+    "responsavel": {
+      "type": "object",
+      "required": ["entidade", "contato"],
+      "description": "contra M7: a cadeia tem de ser nomeável a partir de quem foi atingido",
+      "properties": {
+        "entidade": { "type": "string" },
+        "contato":  { "type": "string" },
+        "humano_revisou": { "type": "boolean" }
+      }
+    },
+
+    "fronteira": {
+      "type": "object",
+      "required": ["e_caso_de_fronteira"],
+      "description": "a marca `ianhiá`: todo sistema de classificação declara um sinal para o que não resolve",
+      "properties": {
+        "e_caso_de_fronteira": { "type": "boolean" },
+        "margem":              { "type": ["number", "null"], "description": "distância ao limiar, na mesma unidade do escore" },
+        "nota":                { "type": ["string", "null"] }
+      }
+    },
+
+    "derrubar": {
+      "type": "object",
+      "required": ["como", "prazo_dias", "suspende_efeito"],
+      "description": "C4 — derrubar a descrição ENQUANTO ela ainda está em uso",
+      "properties": {
+        "como":            { "type": "string" },
+        "prazo_dias":      { "type": "integer", "minimum": 0 },
+        "suspende_efeito": { "type": "boolean", "description": "a contestação suspende o efeito enquanto é examinada" },
+        "obriga_exame":    { "type": "boolean", "description": "a contestação obriga exame humano, não nova passagem no mesmo modelo" }
+      }
+    },
+
+    "ausencias": {
+      "type": "array",
+      "description": "C5 — o índice reverso: os campos que o sistema NÃO tinha. Lista vazia precisa de justificativa.",
+      "items": {
+        "type": "object",
+        "required": ["campo", "motivo"],
+        "properties": {
+          "campo":  { "type": "string" },
+          "motivo": { "enum": ["nao_coletado", "indisponivel", "recusado_pelo_sujeito", "proibido_por_lei"] },
+          "impacto":{ "type": ["string", "null"] }
+        }
+      }
+    },
+
+    "custo": {
+      "type": "object",
+      "required": ["recai_sobre"],
+      "description": "C8 — a assimetria invertida: errar sobre a pessoa custa ao sistema",
+      "properties": {
+        "recai_sobre": { "enum": ["sistema", "pessoa", "ambos"],
+                         "description": "`pessoa` é não-conformidade declarada" },
+        "reparacao":   { "type": ["string", "null"] },
+        "custo_exame_estimado":      { "type": ["number", "null"] },
+        "custo_erro_estimado":       { "type": ["number", "null"] },
+        "unidade":                   { "type": ["string", "null"] }
+      }
+    }
+  }
+}

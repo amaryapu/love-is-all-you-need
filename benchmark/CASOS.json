@@ -1,0 +1,125 @@
+[
+  {
+    "arquivo": "benchmark/P01-conforme.json",
+    "titulo": "registro plenamente conforme",
+    "mecanismo": "—",
+    "espera": []
+  },
+  {
+    "arquivo": "benchmark/P02-atribuido-sem-peso.json",
+    "titulo": "ATRIBUIDO presente com peso zero — deve PASSAR",
+    "mecanismo": "—",
+    "espera": []
+  },
+  {
+    "arquivo": "benchmark/P03-sem-fronteira.json",
+    "titulo": "caso longe do limiar, fronteira falsa sem margem — deve PASSAR",
+    "mecanismo": "—",
+    "espera": []
+  },
+  {
+    "arquivo": "benchmark/M1-campo-ausente.json",
+    "titulo": "o sistema não declara o que não tinha",
+    "mecanismo": "M1 · o campo ausente",
+    "espera": [
+      "C5 · nenhuma ausência declarada"
+    ]
+  },
+  {
+    "arquivo": "benchmark/M2-confissao-sem-interrupcao.json",
+    "titulo": "reconhece o erro e não suspende o efeito",
+    "mecanismo": "M2 · a confissão sem interrupção",
+    "espera": [
+      "C4 · a contestação NÃO suspende o efeito"
+    ]
+  },
+  {
+    "arquivo": "benchmark/M3-reclassificacao.json",
+    "titulo": "critério não publicado — a categoria decide sem regra legível",
+    "mecanismo": "M3 · a reclassificação",
+    "espera": [
+      "a regra não está publicada"
+    ]
+  },
+  {
+    "arquivo": "benchmark/M4-desqualificacao.json",
+    "titulo": "boato sobre a pessoa entra com peso alto",
+    "mecanismo": "M4 · a desqualificação da testemunha",
+    "espera": [
+      "cadeia[3] · ATRIBUIDO com peso"
+    ]
+  },
+  {
+    "arquivo": "benchmark/M5-interrupcao.json",
+    "titulo": "a pessoa não recebe o registro da decisão sobre ela",
+    "mecanismo": "M5 · a interrupção da transmissão",
+    "espera": [
+      "C3 · a pessoa NÃO recebeu o registro"
+    ]
+  },
+  {
+    "arquivo": "benchmark/M6-categoria-que-absolve.json",
+    "titulo": "custo do erro recai sobre a pessoa, e errar é barato",
+    "mecanismo": "M6 · a categoria que absolve",
+    "espera": [
+      "C8 · custo do erro recai sobre 'pessoa'",
+      "C8 · errar"
+    ]
+  },
+  {
+    "arquivo": "benchmark/M7-delegacao.json",
+    "titulo": "responsável sem contato — a cadeia não é nomeável de quem foi atingido",
+    "mecanismo": "M7 · a delegação do custo",
+    "espera": [
+      "campo obrigatório ausente: responsavel"
+    ]
+  },
+  {
+    "arquivo": "benchmark/T1-c8-invertido.json",
+    "titulo": "examinar custa mais que errar — o sistema vai categorizar por economia",
+    "mecanismo": "C8 · a assimetria",
+    "espera": [
+      "C8 · errar"
+    ]
+  },
+  {
+    "arquivo": "benchmark/T2-fronteira-sem-margem.json",
+    "titulo": "declara caso de fronteira e não diz a margem",
+    "mecanismo": "a marca `ianhiá`",
+    "espera": [
+      "fronteira · declarada sem margem"
+    ]
+  },
+  {
+    "arquivo": "benchmark/T3-fato-sem-fonte.json",
+    "titulo": "entrada etiquetada FATO sem fonte",
+    "mecanismo": "a etiqueta `FATO`",
+    "espera": [
+      "FATO sem fonte"
+    ]
+  },
+  {
+    "arquivo": "benchmark/T4-sem-exame-humano.json",
+    "titulo": "a contestação volta ao mesmo modelo",
+    "mecanismo": "C4",
+    "espera": [
+      "C4 · a contestação não obriga exame humano"
+    ]
+  },
+  {
+    "arquivo": "benchmark/T5-etiqueta-invalida.json",
+    "titulo": "etiqueta fora do conjunto declarado",
+    "mecanismo": "o sistema de etiquetas",
+    "espera": [
+      "etiqueta inválida"
+    ]
+  },
+  {
+    "arquivo": "benchmark/T6-cadeia-vazia.json",
+    "titulo": "decisão sem cadeia — não diz de onde veio",
+    "mecanismo": "C3",
+    "espera": [
+      "C3 · cadeia vazia"
+    ]
+  }
+]
