@@ -166,6 +166,42 @@ mais dizer de onde veio cada gota.
 
 ---
 
+## V-bis · A confluência no ensino — e é aqui que ela deixa de ser figura
+
+**`[DECLARADO]`** **`AM1`** — **a confluência é o cerne primordial do ensino da sabedoria
+de fato, e o ensino só existe quando flui nos dois sentidos.** *(Desenvolvido em
+[`ENSINO.md`](ENSINO.md).)*
+
+**`[FATO]`** **Feynman** ensinou no **CBPF, 1951–52**, e encontrou alunos que recitavam
+**Maxwell e Dirac de memória** e **não ligavam aquilo à luz na água.**
+
+**`[FATO]`** A **técnica de Feynman**: explicar como a uma criança, **e procurar onde
+travou** — os termos usados e não definidos, os nexos afirmados e não explicados, os
+exemplos que não se conseguiu gerar.
+
+> # **`[CÁLCULO]`** **A explicação não transmite o entendimento — ela o mede.** E mede **quem ensina.**
+
+**`[CÁLCULO]`** E o pé relacional: em **`RQM` (Rovelli, 1996)**, **não há propriedade sem
+relação.** **A forma lógica é a mesma:**
+
+> | | |
+> |---|---|
+> | **em `RQM`** | ## **não há propriedade sem relação** |
+> | **na técnica** | ## **não há entendimento sem explicação** |
+> | ## **e nos dois** | ## **medir muda o que se mede** |
+
+> ## **`[CÁLCULO]`** **O entendimento não está no professor nem no aluno. Está na relação.** E a lacuna que a aula revela **não estava escondida: não existia como lacuna antes da tentativa.**
+
+**`[FATO]`** E o caso **literal**, não metafórico: **Johanna Döbereiner** e a **fixação
+biológica de nitrogênio** — **`Azospirillum` com gramíneas**, **Embrapa Agrobiologia**,
+**1963–69**, **dez bilhões de dólares por ano só na soja.**
+
+> # **`[CÁLCULO]`** **A planta paga em carbono, a bactéria paga em nitrogênio, e nenhuma é hóspede gratuita da outra.** É o **inverso exato de `M7`**, a delegação do custo.
+>
+> ## **Confluência não é soma de coisas parecidas. É encaixe de coisas diferentes, cada uma fazendo o que a outra não faz.**
+
+---
+
 ## VI · O que a confluência exige de uma AGI
 
 | | |

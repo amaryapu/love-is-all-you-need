@@ -20,6 +20,10 @@
 
 > ## **[`O REGISTRO`](O-REGISTRO.md)** — **o protocolo em formato implementável**: um esquema JSON, um exemplo, um contraexemplo, e **o programa que confere.** `python3 ferramentas/conferir_registro.py exemplos/*.json`
 
+> ## **[`O ENSINO`](ENSINO.md)** — **a confluência como cerne do ensino**, e por que de mão única nada é medido. Feynman no **CBPF em 1951–52**, a técnica como **instrumento de medida apontado para quem ensina**, e os dois pés da tese: **relacional** e **racional**.
+
+> ## **[`REGISTRUM`](REGISTRUM.md)** — **quem queimou os livros escreveu a chave para lê-los.** Maní **1562**, Knorozov **1952**, e o decreto de **Lima 1583** que **manteve a tecnologia e trocou o conteúdo**.
+
 > ## **[`A CONFLUÊNCIA`](CONFLUENCIA.md)** — a teoria como **especificação técnica**: a física da operação, o teste da função objetivo, as três séries, e o que ela exige de uma AGI.
 
 > ## **[`A UNIÃO`](UNIAO.md)** — a união das nações **por protocolo, não por tratado**: cinco artigos que qualquer um adota sozinho e qualquer um confere de fora.
