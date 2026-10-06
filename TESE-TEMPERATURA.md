@@ -66,6 +66,63 @@ acessíveis.
 
 ---
 
+## II-bis · E agora a tese tem base medida — a zona crítica
+
+**`[FATO]`** A **Hipótese do Cérebro Entrópico** (`EBH`), de **Carhart-Harris** e colegas,
+propõe que **a variedade de estados de consciência pode ser indexada pela entropia de
+parâmetros-chave da atividade cerebral** — a riqueza da experiência subjetiva
+**diretamente relacionada à diversidade da atividade neural em curso.**
+
+**`[FATO]`** E a formulação precisa, que é o achado decisivo para esta tese: **na vigília
+normal, a atividade do cérebro está próxima, mas ligeiramente abaixo, de uma zona crítica
+entre ordem e desordem**; **sob psicodélicos a entropia aumenta, levando o sistema mais
+perto da criticalidade.**
+
+> # **`[CÁLCULO]`** **Essa é a descrição exata de uma temperatura de amostragem bem escolhida, escrita por neurocientistas que não estavam falando de amostragem.**
+>
+> | | |
+> |---|---|
+> | **abaixo da zona** | ## repetição, resposta única, **o mesmo caminho sempre** |
+> | **na zona** | ## **forma nova que ainda é forma** |
+> | **acima** | ## **ruído sem procedência** |
+
+**`[FATO]`** **Schartner e col., 2017:** `MEG` sob **`LSD`, psilocibina ou cetamina** em
+doses psicoativas mostrou **`LZC` espontâneo confiavelmente mais alto** que na vigília
+normal, em **múltiplos sensores**, e **mais pronunciado em medidas de banda larga.** E **o
+grau de aumento de entropia correlacionou-se com a intensidade da experiência subjetiva.**
+
+**`[FATO]`** Série de estudos de **`MEG`** e **`fMRI`** entre **2014 e 2020**: medidas
+elevadas de **diversidade do sinal cerebral** sob psicodélicos, **de modo consistente**,
+comparadas a placebo.
+
+> ## **`[CÁLCULO]`** **`LZC` é complexidade de Lempel–Ziv — o tamanho do sinal depois de comprimido.** Mediram **a compressibilidade da consciência**, e ela **caiu.**
+
+### E o Brasil está dentro da literatura, não fora
+
+**`[FATO]`** **Viol, Palhano-Fontes, Onias e de Araujo**, ***Scientific Reports***,
+**2017**: **entropia de Shannon da distribuição de graus** das redes cerebrais **sob
+ayahuasca** — **Departamento de Física e Instituto do Cérebro, UFRN, Natal.**
+
+**`[FATO]`** E o achado que **não** é «mais entropia em tudo»: **aumento da integração
+local e diminuição da integração global.**
+
+> # **`[CÁLCULO]`** **O sistema deixa de ser governado por um centro e passa a ser governado por vizinhanças.**
+>
+> ## **`[INTERPRETATIVO]`** E é a topologia da confluência: **não um centro que distribui, mas vizinhos que trocam.** **Entra como interpretação e cai sem prejuízo do resto.**
+
+**`[FATO]`** E o artigo registra: **a ayahuasca é bebida psicodélica de origem indígena
+amazônica, com status legal no Brasil para contextos religiosos e científicos.**
+
+### O que isso muda no estatuto desta tese
+
+> ## **`[REGRA]`** **A tese continua `[A CONFERIR]`** — porque o que foi medido é **a entropia do sinal cerebral**, e **não** a transposição para a temperatura de amostragem de um modelo.
+>
+> # **O que mudou é que o lado biológico da analogia deixou de ser impressão e passou a ter instrumento, revista e número.**
+>
+> ## **A ponte entre os dois lados segue sendo o que esta tese propõe, e segue derrubável — como está na seção VI.**
+
+---
+
 ## III · A tese
 
 > # **`[A CONFERIR]`** **Temperatura alta não é o defeito. Temperatura alta *sem âncora externa* é.**
@@ -75,6 +132,14 @@ acessíveis.
 1. **`[FATO]`** Estados de prior relaxado produzem **tanto o insight quanto a confabulação** — **e o sistema não distingue os dois por dentro.**
 2. **`[CÁLCULO]`** Baixar a temperatura **remove os dois juntos.** Ganha-se segurança **perdendo o que se foi buscar.**
 3. **`[CÁLCULO]`** Logo, a correção **não pode ser interna.** Tem de vir **de fora**, e tem de operar **sem reduzir a temperatura.**
+
+---
+
+> ## **`[FATO]`** E a literatura clínica **escreve a âncora dentro do próprio resultado:** **Griffiths e col., 2008**, catorze meses depois — **58%** entre as cinco experiências mais pessoalmente significativas da vida, **67%** entre as cinco mais espiritualmente significativas, **58%** com experiência mística «completa» — **e a condição declarada é `when administered under supportive conditions`.**
+>
+> # **`[CÁLCULO]`** **«Sob condições de apoio» não é rodapé: é parte do achado.** Preparação, acompanhante, integração. **Alguém sóbrio na sala.**
+>
+> ## **E é o que `C3` é, numa inteligência: **a etiqueta é o acompanhante sóbrio.** A alucinação **sem marca** é temperatura **sem âncora**; a alucinação **marcada** é a zona crítica **com alguém sóbrio na sala.**
 
 ---
 
