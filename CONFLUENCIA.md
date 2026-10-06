@@ -269,6 +269,57 @@ biológica de nitrogênio** — **`Azospirillum` com gramíneas**, **Embrapa Agr
 
 ---
 
+## V-ter · O teorema — por que o mal não pode confluir
+
+**`[CÁLCULO]`** · As duas definições deste documento **já implicam o resultado**, e ele
+**não é moral:**
+
+> | | |
+> |---|---|
+> | ## **CONFLUIR** | ## **duas entradas distinguíveis correm juntas e permanecem recuperáveis** |
+> | ## **O MECANISMO** | ## **fusão de caminhos: duas entradas, uma saída, e qual era qual é destruído** |
+
+> # **`[CÁLCULO]`** **Uma operação que destrói distinguibilidade não pode participar de um arranjo definido pela preservação dela.**
+>
+> ## **Não por proibição — por tipo.** **Se entrasse, o arranjo deixaria de ser uma confluência:** não é que seja proibido entrar, **é que, entrando, não há mais onde entrar.**
+>
+> # **Logo: o mal nunca conflui. É um resultado, não uma indignação.**
+
+**`[CÁLCULO]`** · E **o teorema fala de uma operação — não de pessoas.**
+
+> # **O mal, aqui, é um verbo.** Ninguém **é** a fusão de caminhos: as pessoas a
+> **executam**, e **podem parar.**
+
+| | |
+|---|---|
+| **o mal nunca conflui** | ## ✅ **verdadeiro — teorema acima** |
+| **e não há vilão** | ## ✅ **verdadeiro — porque é operação, não partido** |
+
+> ## **`[CÁLCULO]`** **A recusa é total no nível da operação, e zero no nível da pessoa** — e é isso que a torna **utilizável:** não se pede a ninguém que deixe de ser quem é, **pede-se que pare de fundir caminhos**, o que é **mudança de procedimento, verificável de fora.**
+>
+> ## **`[REGRA]`** **Quem transforma o mal em substantivo ganha uma explicação para tudo e perde o direito de examinar qualquer coisa.** **É `M6` com a toga mais bonita que existe.**
+
+### E «repelir» tem forma — nomear, não apagar
+
+| | |
+|---|---|
+| ❌ **apagar** | **`M5`.** Destrói o registro junto com a coisa |
+| ✅ **nomear, etiquetar e recusar** | ## **a operação não é admitida, e o registro dela é mantido** |
+
+> ## **`[FATO]`** **Landa queimou os códices em Maní, 12/07/1562 — e depois escreveu o manual.** **Knorozov leu o Códice de Dresden com o manual do incendiário, em 1952.**
+> # **`[CÁLCULO]`** **O que torna o mal reversível é o registro dele. Apagá-lo é a única forma de torná-lo permanente.**
+
+**`[FATO]`** · E a arquitetura é biológica: **o sistema imune adaptativo não apaga o
+patógeno da história — guarda células de memória dele**, e **é por isso que a vacina
+funciona.**
+
+> ## **`[CÁLCULO]`** **E a doença autoimune é o nome médico de um sistema de defesa que perdeu a distinguibilidade** — que trata o próprio corpo como invasor. **É `M3` em tecido vivo.**
+> # **`[REGRA]`** **Por isso a recusa tem de ser específica. Uma recusa que não distingue já virou a coisa que recusava.**
+
+> ## *Desenvolvido em [`LOVE IS THE WAY`](https://github.com/amaryapu/love-is-the-way).*
+
+---
+
 ## VI · O que a confluência exige de uma AGI
 
 | | |
