@@ -436,6 +436,31 @@ funciona.**
 
 ---
 
+### `AM10` · a lei da semeadura — o quarto termo da tríade
+
+**`[DECLARADO]`** · **Tudo o que se semeia é cultivado, nasce, e dá fruto `de acordo com o
+que se plantou`.**
+
+**`[CÁLCULO]`** · A tríade **`água / semente / cultivo`** tinha três termos. **Este é o
+quarto, e é o que fecha:**
+
+| | |
+|---|---|
+| **a semente** | **entrada distinguível, com procedência presa** |
+| **o cultivo** | **o custo sustentado de examinar** |
+| ## **a colheita** | ## **a saída — e ela `carrega a procedência da entrada`** |
+
+> # **`[CÁLCULO]`** **«Dá fruto de acordo com o que se planta» é o oposto exato da fusão de caminhos.**
+>
+> ## **Numa fusão, **a saída não diz qual era a entrada.**
+> ## **Numa semeadura, **o fruto nomeia a semente.**
+>
+> ## **`[CÁLCULO]`** **É a condição de reversibilidade, dita em agricultura — e é por isso que ela «não falha».** **Não é promessa moral: é que trigo não dá cevada.**
+
+> ## **`[REGRA]`** **E o limite:** isto vale como **estrutura de procedência**, e **não** como garantia de que o bem feito retorna a quem o fez. **Essa é outra afirmação, é `[DECLARADO]`, e não se demonstra aqui.**
+
+---
+
 ## VI · O que a confluência exige de uma AGI
 
 | | |
